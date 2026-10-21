@@ -49,4 +49,4 @@ For the best frame rate, make sure hardware acceleration is on in Chromium.
 
 Built with [three.js](https://threejs.org) r128, which is bundled into the file.
 
-See also **[Fernlight Frostfall](https://github.com/hardwaremack-prog/fernlight-frostfall)**, the survival version for an overclocked Pi 5 / 500.
+See also **[Fernlight Frostfall](https://github.com/hardwaremack-prog/fernlight-frostfall)**, the survival version, initially designed for an overclocked RPi 500.
